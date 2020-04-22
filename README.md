@@ -1,6 +1,6 @@
 
 ### 프로젝트 개요
----
+
 해당 프로젝트는 포시즌즈 펜션의 소개를 위해 만들어진 홈페이지 입니다.
 <br/>
 빠른 시간 안에 작업 하는 것에 중점을 두었습니다.
@@ -18,7 +18,7 @@
 
 
 ### 개발 기술
----
+```
 Java·Spring
 <br/>
 Handlebars·HTML5/CSS3·Bootstrap4
@@ -27,5 +27,5 @@ Javascript·Ajax·JQuery
 <br/>
 MySQL·Mybatis
 <br/> 
-
+```
 
