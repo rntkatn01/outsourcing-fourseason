@@ -18,7 +18,7 @@
 
 
 ### 개발 기술
-```
+
 Java·Spring
 <br/>
 Handlebars·HTML5/CSS3·Bootstrap4
@@ -27,5 +27,5 @@ Javascript·Ajax·JQuery
 <br/>
 MySQL·Mybatis
 <br/> 
-```
+
 
