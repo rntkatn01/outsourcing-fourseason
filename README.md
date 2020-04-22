@@ -28,7 +28,9 @@ Javascript·Ajax·JQuery
 <br/>
 MySQL·Mybatis
 <br/> 
-
-[![이미지 설명](fourseason/fourseason_4.png)]("마우스 오버 시 나타낼 링크 title")
+(fourseason/fourseason_1.png)
+(fourseason/fourseason_2.png)
+(fourseason/fourseason_3.png)
+(fourseason/fourseason_4.png)
 
 
