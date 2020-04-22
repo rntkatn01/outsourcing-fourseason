@@ -12,9 +12,13 @@
 
 ## 개발 기술
 
-Java·Spring
+Java(1.8)·Spring(4)
 <br/>
-Handlebars·HTML5/CSS3·Bootstrap4·JQuery
+Handlebars·HTML5/CSS3·Bootstrap4
+<br/>
+Javascript·Ajax·JQuery(3.1)
 <br/>
 MySQL·Mybatis
+<br/> 
+
 
