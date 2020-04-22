@@ -8,8 +8,10 @@
 
 단순한 기능의 소개페이지이므로 깔끔한 디자인에 집중하였습니다.
 
+<br/>
 
 ## 개발 기술
+
 Java·Spring
 <br/>
 Handlebars·HTML5/CSS3·Bootstrap4·JQuery
